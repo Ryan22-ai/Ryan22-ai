@@ -1,7 +1,7 @@
 # Olá, eu sou o Ryan! 👋
 
 🎓 Atualmente, estou cursando um curso técnico no **SENAI**.  
-🎂 Tenho **18 anos**.  
+🎂 Tenho **19 anos**.  
 💻 Tenho grande interesse em ingressar na área de **Tecnologia da Informação (TI)**.  
 
 ## 💡 Sobre mim
