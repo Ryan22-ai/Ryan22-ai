@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Ryan!
 
-<!--
-**Ryan22-ai/Ryan22-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+📚 Formação complementar em Análise e Desenvolvimento de Sistemas (SENAI)  
+💻 Focado em desenvolvimento e lógica de programação  
+🚀 Buscando minha primeira oportunidade no mercado  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estou aprendendo
+- Java
+- HTML
+- CSS
+- Git e GitHub
+
+---
+
+## 📚 Projetos em destaque
+🔹 Sistema de Inventário  
+🔹 Calculadora  
+🔹 Projeto de Restaurante (HTML/CSS)  
+
+---
+
+## 📈 Objetivo
+Me tornar desenvolvedor e conquistar minha primeira vaga na área de tecnologia.
+
+---
+
+## 📫 Contato
+- Email: ryan22.nicolas@gmail.com
+- LinkedIn: www.linkedin.com/in/ryan-linhares
